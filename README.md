@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, my name is Stephen Green and I am a new software developer. I am starting at Tech Elevator in April and am excited to learn about coding. 
+I have little to no coding experience, but I learn quickly and am eager to jump into this new field. 
+I currenty work as an inside salesman at a machine shop in Ohio, and I'm looking for a change of pace. I plan to use this information to help propel me into a more exciting and lucrative field. 
+In my free time, I like to travel, workout, and watch Cleveland sports with my wife and cat, Matcha. 
